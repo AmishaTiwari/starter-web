@@ -1,1 +1,3 @@
 testing direct commit vs indirect commit
+adding more content
+adding content again just to see same file in staged as well as unstaged area
