@@ -1,3 +1,4 @@
-testing direct commit vs indirect commit
+testing direct commit vs indirect commit (modified this one also)
 adding more content
-adding content again just to see same file in staged as well as unstaged area
+deleted last line and added this one to see the diff
+Hey, add this line for "git diff HEAD"
